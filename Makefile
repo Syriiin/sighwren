@@ -4,7 +4,7 @@ help:	## Show this help
 	@printf '\n'
 
 start:	## Start hugo dev server
-	hugo server --buildDrafts
+	hugo server --buildDrafts --disableFastRender
 
 format-config:	## Format config toml files
 	taplo format ./config/**/*.toml

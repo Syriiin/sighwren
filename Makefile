@@ -5,3 +5,6 @@ help:	## Show this help
 
 start:	## Start hugo dev server
 	hugo server --buildDrafts
+
+format-config:	## Format config toml files
+	taplo format ./config/**/*.toml

@@ -1,5 +1,5 @@
 +++
-title = 'Tags'
+title = 'tags'
 +++
 
 Tags are tags

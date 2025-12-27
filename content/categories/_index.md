@@ -1,5 +1,5 @@
 +++
-title = 'Categories'
+title = 'categories'
 +++
 
 Categories are categories

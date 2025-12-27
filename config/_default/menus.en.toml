@@ -1,19 +1,19 @@
 [[main]]
-name = "Posts"
+name = "posts"
 pageRef = "/posts"
 weight = 10
 
 [[main]]
-name = "Projects"
+name = "projects"
 pageRef = "/projects"
 weight = 20
 
 [[footer]]
-name = "Tags"
+name = "tags"
 pageRef = "/tags"
 weight = 10
 
 [[footer]]
-name = "Categories"
+name = "categories"
 pageRef = "/categories"
 weight = 20

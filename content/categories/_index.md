@@ -2,4 +2,4 @@
 title = 'categories'
 +++
 
-Categories are categories
+Is this page really necessary?

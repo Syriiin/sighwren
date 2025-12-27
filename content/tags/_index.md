@@ -2,4 +2,4 @@
 title = 'tags'
 +++
 
-Tags are tags
+I try to tag things somewhat sensibly.

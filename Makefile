@@ -9,5 +9,8 @@ start:	## Start hugo dev server
 build:	## Build the site
 	hugo build
 
+shell:	## Enter nix dev shell
+	nix develop
+
 format-config:	## Format config toml files
 	taplo format ./config/**/*.toml

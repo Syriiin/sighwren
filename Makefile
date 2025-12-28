@@ -6,5 +6,8 @@ help:	## Show this help
 start:	## Start hugo dev server
 	hugo server --buildDrafts --disableFastRender
 
+build:	## Build the site
+	hugo build
+
 format-config:	## Format config toml files
 	taplo format ./config/**/*.toml

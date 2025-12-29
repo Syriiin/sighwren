@@ -3,7 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://syrin.me/"
+# baseURL = "https://syrin.me/"
+baseURL = "https://syriiin.github.io/sighwren/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true

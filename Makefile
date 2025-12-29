@@ -7,7 +7,7 @@ start:	## Start hugo dev server
 	hugo server --buildDrafts --disableFastRender
 
 build:	## Build the site
-	hugo build
+	hugo build --minify
 
 shell:	## Enter nix dev shell
 	nix develop

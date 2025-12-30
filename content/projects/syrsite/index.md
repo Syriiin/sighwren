@@ -15,7 +15,13 @@ I was comfortable using python at this point so I followed along [sentdex's djan
 
 {{< youtubeLite id="FNQxxpM1yOs" label="sentdex's django tutorial series" >}}
 
-There was nothing else to the base of syrsite, just a few static pages. However it would shortly after become the home of both [osu!chan classic](./osuchan-classic.md) and [pp+](./pp+.md).
+There was nothing else to the base of syrsite, just a few static pages. However it would shortly after become the home of both [osu!chan classic](../osuchan-classic.md) and [pp+](../pp+.md).
+
+{{<figure
+  src="assets/home.png"
+  alt="Screenshot of the home page"
+  caption="A screenshot of the current old.syrin.me homepage"
+>}}
 
 Source: The code is sitting in a repo ready to made public after I check for any security issues
 

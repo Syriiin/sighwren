@@ -15,7 +15,7 @@ I was comfortable using python at this point so I followed along [sentdex's djan
 
 {{< youtubeLite id="FNQxxpM1yOs" label="sentdex's django tutorial series" >}}
 
-There was nothing else to the base of syrsite, just a few static pages. However it would shortly after become the home of both [osu!chan classic](../osuchan-classic.md) and [pp+](../pp+.md).
+There was nothing else to the base of syrsite, just a few static pages. However it would shortly after become the home of both [osu!chan classic](../osuchan-classic/index.md) and [pp+](../pp+/index.md).
 
 {{<figure
   src="assets/home.png"

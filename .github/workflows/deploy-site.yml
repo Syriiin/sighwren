@@ -12,7 +12,7 @@ jobs:
         with:
           submodules: recursive
       - uses: cachix/install-nix-action@v31
-      - run: nix develop --command make build
+      - run: make build
       - name: Upload artifacts
         uses: actions/upload-pages-artifact@v4
         with:

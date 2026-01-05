@@ -25,4 +25,4 @@ There was nothing else to the base of syrsite, just a few static pages. However 
 
 Source: The code is sitting in a repo ready to be made public after I check for any security issues.
 
-<!-- {{< github repo="Syriiin/syrsite" showThumbnail=true >}} -->
+<!-- {{< github repo="Syriiin/syrsite" showThumbnail=false >}} -->

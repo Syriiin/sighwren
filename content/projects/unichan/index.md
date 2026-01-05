@@ -65,4 +65,4 @@ To this day I still keep UniChan running for the few discord servers that still 
 
 Source: The code is sitting in a repo ready to be made public after I check for any security issues.
 
-<!-- {{< github repo="Syriiin/unichan" showThumbnail=true >}} -->
+<!-- {{< github repo="Syriiin/unichan" showThumbnail=false >}} -->

@@ -29,4 +29,4 @@ The post got great feedback, and I wanted to continue with the project, but I go
 
 It's still one of my favourite projects and certainly one I'm very proud of. Someday I hope I get the time to revive it as a part of [osu!chan](../osuchan/index.md).
 
-{{< github repo="Syriiin/UniCircleDifficulty" showThumbnail=true >}}
+{{< github repo="Syriiin/UniCircleDifficulty" showThumbnail=false >}}

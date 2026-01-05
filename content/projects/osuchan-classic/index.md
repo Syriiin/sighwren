@@ -57,4 +57,4 @@ I'm not sure how much longer I plan to keep the classic version running for sinc
 
 Source: The code is sitting in a repo ready to be made public after I check for any security issues
 
-<!-- {{< github repo="Syriiin/syrsite" showThumbnail=true >}} -->
+<!-- {{< github repo="Syriiin/syrsite" showThumbnail=false >}} -->

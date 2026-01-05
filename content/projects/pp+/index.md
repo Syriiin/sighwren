@@ -57,4 +57,4 @@ I still do intend to decommission it eventually though!
 
 Source: The code is sitting in a repo ready to made public after I check for any security issues.
 
-<!-- {{< github repo="Syriiin/syrsite" showThumbnail=true >}} -->
+<!-- {{< github repo="Syriiin/syrsite" showThumbnail=false >}} -->

@@ -35,4 +35,4 @@ Relaying discord messages to IRC is much more challenging however. In addition t
 
 The formatting translation was certainly the most difficult part of the project and it definitely had it's bugs in particularly heavily formatted messages. I had planned to replace the regex based translation engine with a lexical analysis engine to create an formatting syntax tree, but before I got around to implementing it, all the users of irc-to-discord had migrated to discord natively, so there was no need anymore and the project was retired.
 
-{{< github repo="Syriiin/irc-to-discord" showThumbnail=true >}}
+{{< github repo="Syriiin/irc-to-discord" showThumbnail=false >}}

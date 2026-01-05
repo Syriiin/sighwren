@@ -21,4 +21,4 @@ owc-calendar-helper is a straightforward script that simply pulls the current we
   caption="2026-01-02: A screenshot of the current owc.syrin.me homepage"
 >}}
 
-{{< github repo="Syriiin/owc-calendar-helper" showThumbnail=true >}}
+{{< github repo="Syriiin/owc-calendar-helper" showThumbnail=false >}}

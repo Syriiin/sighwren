@@ -73,4 +73,4 @@ Additionally, the function app includes a 15 minute timer that will periodically
 
 Source: The code is sitting in a repo ready to be made public after I check for any security issues.
 
-<!-- {{< github repo="Syriiin/iceblock" showThumbnail=true >}} -->
+<!-- {{< github repo="Syriiin/iceblock" showThumbnail=false >}} -->

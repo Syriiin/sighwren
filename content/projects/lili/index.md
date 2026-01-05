@@ -32,5 +32,5 @@ The backend was a simple golang webserver that was really just CRUD for a "notes
 
 Despite it being the simplest project I ever created, I actually probably used it more than any over the years. I created it in 2021 and used it as my main note app for everything from project notes to DnD characters to TODO lists until I switched to obsidian in early 2025.
 
-{{< github repo="Syriiin/lili" showThumbnail=true >}}
-{{< github repo="Syriiin/liliview" showThumbnail=true >}}
+{{< github repo="Syriiin/lili" showThumbnail=false >}}
+{{< github repo="Syriiin/liliview" showThumbnail=false >}}

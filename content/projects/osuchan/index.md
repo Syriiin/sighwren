@@ -53,5 +53,5 @@ Several new features were added over time including the profile sandbox, custom 
 
 After the years of backend improvements, the React frontend has certainly fallen behind, both in terms of the wider JavaScript ecosystem patterns/tech but also in ease of maintainability compared to the backend, so I plan to soon rewrite a new frontend with a design overhaul as well.
 
-{{< github repo="Syriiin/osuchan-backend" showThumbnail=true >}}
-{{< github repo="Syriiin/osuchan-frontend" showThumbnail=true >}}
+{{< github repo="Syriiin/osuchan-backend" showThumbnail=false >}}
+{{< github repo="Syriiin/osuchan-frontend" showThumbnail=false >}}

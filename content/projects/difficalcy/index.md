@@ -76,5 +76,5 @@ I decided to scrap this architecture and instead let each ruleset be it's own bi
 
 I lost motivation for this project several times after the failure of the initial architecture, and ended up not completing it until April of 2024 when I [released v0.1.0](https://github.com/Syriiin/difficalcy/releases/tag/v0.1.0). Since it's release and integration into osu!chan however, it has been rock solid and has powered osu!chan's difficulty and performance calculations since, allowing for pp updates to be released at the same time as they are released for the main osu! servers. Additionally it allowed me to seamlessly integration PP+ into osu!chan using the new open source port of the original closed source algorithm.
 
-{{< github repo="Syriiin/difficalcy" showThumbnail=true >}}
-{{< github repo="Syriiin/difficalcy-performanceplus" showThumbnail=true >}}
+{{< github repo="Syriiin/difficalcy" showThumbnail=false >}}
+{{< github repo="Syriiin/difficalcy-performanceplus" showThumbnail=false >}}

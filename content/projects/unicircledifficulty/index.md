@@ -11,7 +11,7 @@ Let's build our own pp system, based on physics, not bandaids.
 
 After the rise and fall of [PP+](../pp+/index.md), I had the drive to try my own hand at building a difficulty calculator.
 
-There we're aspects of ppv2 and PP+ that I thought we're good, but in general I feel their philosophy of balance patches and tweaks was suboptimal. It's very likely the most _practical_ way to build a system people are mostly satisfied with, but I think under the surface there should be a way to develop a system based on physics and the core of what actually makes osu! maps difficult, rather than relying on balance patches in a reactive manner to overweighted and underweighted maps.
+There were aspects of ppv2 and PP+ that I thought we're good, but in general I feel their philosophy of balance patches and tweaks was suboptimal. It's very likely the most _practical_ way to build a system people are mostly satisfied with, but I think under the surface there should be a way to develop a system based on physics and the core of what actually makes osu! maps difficult, rather than relying on balance patches in a reactive manner to overweighted and underweighted maps.
 
 The way I think about it is similar to treating the disease, not the symptoms. ppv2 and PP+ treat the symptoms, but didn't address the underlying mechanics. ppv2 does it better these days, but it's still not great.
 

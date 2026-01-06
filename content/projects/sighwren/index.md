@@ -17,4 +17,10 @@ Technically there is nothing special really going on here. It's a very stock sta
 
 The only truly notable thing about it so far is how long it took from `git init` to [publishing](../../posts/ive-always-thought-about-writing-a-blog.md)! Over a year! Though this was largely due to me wanting to design a logo and needing to learn [Inkscape](https://inkscape.org/) from scratch and getting busy a lot in the process, which took a while, but I'm happy with the results.
 
+{{< figure
+  src="assets/logo.png"
+  alt="The sighwren logo; a silhouette of a superb fairywren"
+  caption="The sighwren logo; a silhouette of a superb fairywren"
+>}}
+
 {{< github repo="Syriiin/sighwren" showThumbnail=false >}}

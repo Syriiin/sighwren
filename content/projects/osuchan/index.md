@@ -45,7 +45,7 @@ The system runs on containers inside a VPS that is managed and deployed to via A
 
 osu!chan is a full rewrite of [osu!chan classic](../osuchan-classic/index.md) into a standalone Django project incorporating all my learnings from the first few years of learning programming.
 
-Along with cleaning up and code architecture and performance _immensely_, I also built a fully new React SPA frontend, experimenting with a few different design systems before deciding to build one from the ground up using [styled-components](https://styled-components.com/).
+Along with cleaning up the code architecture and performance _immensely_, I also built a fully new React SPA frontend, experimenting with a few different design systems before deciding to build one from the ground up using [styled-components](https://styled-components.com/).
 
 osu!chan has continued to be my main ongoing project, being worked on semi-regularly over the years. There have been periodic breaks, to work on other projects to support osu!chan, such as [difficalcy](../difficalcy/index.md) or upstream contributions to osu! itself, but in the end osu!chan is my home base.
 

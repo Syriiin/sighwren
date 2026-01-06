@@ -1,7 +1,7 @@
 +++
 title = 'iceblock'
 date = 2023-02-11T23:31:02+11:00
-tags = ["programming", "python", "golang", "terraform", "packer", "minecraft", "cloud", "infra-as-code"]
+tags = ["programming", "python", "golang", "terraform", "packer", "minecraft", "cloud", "azure", "infra-as-code"]
 categories = ["projects"]
 +++
 
@@ -13,7 +13,7 @@ Minecraft meets cloud automation.
 
 iceblock is a Minecraft server you can put on ice.
 
-It is designed to be a budget friendly server stack that spins down when idle and spins up when players wish to connect to save on idle compute cost.
+It is designed to be a budget friendly server stack that spins down when idle and spins up when players wish to connect, to save on idle compute cost.
 
 It runs on Azure Spot VMs and Azure function apps to keep running costs low.
 
@@ -21,9 +21,9 @@ It runs on Azure Spot VMs and Azure function apps to keep running costs low.
 
 In 2023 my friends and I had our biyearly spark of motivation to play a Minecraft world together again.
 
-However I've learned from the past how these things go and knew it would probably fizzle out gradually over a few months and didn't want to be stuck paying the bill for an always-on server that only gets used 3 out of 730 hours in the month.
+However, I've learned from the past how these things go and knew it would probably fizzle out gradually over a few months and didn't want to be stuck paying the bill for an always-on server that only gets used 3 out of 730 hours in the month.
 
-In the past I or one of my friends had simply hosted the server on our PC, but then I would need to keep my PC on 24/7, as I hadn't set up my home lab yet. Even worse!
+In the past, I or one of my friends had simply hosted the server on our PC, but then I would need to keep my PC on 24/7, as I hadn't set up my home lab yet. Even worse!
 
 Hence the server had the following requirements:
 
@@ -33,7 +33,7 @@ Hence the server had the following requirements:
 
 For the previous couple years I had been doing cloud infrastructure and automation at my company, so I did some thinking and came up with an architecture I called "iceblock; a minecraft server you can put on ice".
 
-In other words, it has a super low idle cost, at the expense of a short cold start period. Much like cloud serverless function architectures.
+In other words, it has a super low idle cost, at the expense of a short cold start delay. Much like cloud serverless function architectures.
 
 Of course the challenge here is that Minecraft servers are game servers that are stateful and need to be online for players to connect. It's not like http handlers which can scale up and down in an instant. So how do we make the server "available" without having it actually running?
 

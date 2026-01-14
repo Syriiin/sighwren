@@ -1,4 +1,4 @@
 [submodule "themes/blowfish"]
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
-	branch = v2.96.0
+	branch = v2.97.0

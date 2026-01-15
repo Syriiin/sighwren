@@ -1,7 +1,6 @@
 +++
 title = "Why is Nix working on bash but not zsh?"
 date = 2026-01-08T11:22:06+11:00
-draft = true
 categories = [ "troubleshooting answers" ]
 tags = [ "linux", "nix" ]
 +++

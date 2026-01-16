@@ -8,6 +8,12 @@ name = "projects"
 pageRef = "/projects"
 weight = 20
 
+[[main]]
+identifier = "rss"
+pre = "rss"
+url = "/index.xml"
+weight = 30
+
 [[footer]]
 name = "tags"
 pageRef = "/tags"
